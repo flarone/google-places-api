@@ -220,5 +220,5 @@ Feel free to report issues or make Pull Requests.
 If you find this document can be improved in any way, please feel free to open an issue for it.
 
 # License
-The Google Places Api was forked from `skagarwal/google-places-api`.
+This Google Places Api was forked from `skagarwal/google-places-api`.
 The Google Places Api is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
